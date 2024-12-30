@@ -110,10 +110,7 @@ Key entities in the system:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/engineering-resources-platform.git
-
-# Navigate to project directory
-cd engineering-resources-platform
+git clone https://github.com/MohanedM7md/College-Organizer.git
 
 # Set up database
 # Import provided SQL schema
