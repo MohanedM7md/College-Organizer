@@ -62,10 +62,10 @@
                     <ul>
                         <li><a href="#">Graduates</a></li>
                         <li><a href="#">More about us</a></li>
-                        <li><a href="#">IDK</a></li>
+                        <!-- <li><a href="#">IDK</a></li> -->
                     </ul>
                     <h2>Contact Us</h2>
-                    <img src="images/address.png" alt="Address" style="width: 100%; border-radius: 8px;">
+                    <!-- <img src="images/address.png" alt="Address" style="width: 100%; border-radius: 8px;"> -->
                 </aside>
             </div>
         </section>
