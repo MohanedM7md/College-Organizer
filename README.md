@@ -1,7 +1,7 @@
 # Engineering Educational Resources Platform
 
 <p align="center">
-  <img src="./images/CollegeOrganizerHomePage.png.png" alt="Platform Logo" width="200"/>
+  <img src="./images/CollegeOrganizerHomePage.png" alt="Platform Logo" width="200"/>
 </p>
 
 ## Overview
