@@ -1,8 +1,8 @@
 # Engineering Educational Resources Platform
 
-<p align="center">
-  <img src="./images/CollegeOrganizerHomePage.png" alt="Platform HomePage"/>
-</p>
+
+https://github.com/user-attachments/assets/c9809a30-eed0-4266-893d-4fbf2bb0b65c
+
 
 ## Overview
 A free, online platform providing course materials (videos, tutorials, textbooks, question banks) to engineering students. The platform currently focuses on Cairo engineering with plans to expand to other majors. It features a robust database system that manages educational resources while enabling volunteer contributions and quality control.
@@ -57,7 +57,9 @@ Key entities in the system:
    - Email
    - Degree
 
-## Technical Implementation
+## ERD
+
+https://github.com/MohanedM7md/College-Organizer/issues/1#issuecomment-2573172446
 
 ### Database Design Process
 1. **Requirements Analysis**
