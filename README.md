@@ -21,41 +21,11 @@ The system implements a normalized (3NF) database with the following main entiti
 - Courses
 - Teachers' Information
 
-### Entity Relationship Diagram (ERD)
 The database design includes relationships for:
 - Course enrollment
 - Department management
 - Major associations
 - Teaching assignments
-
-Key entities in the system:
-1. User:
-   - ID
-   - Name (first and last)
-   - Email
-   - Password
-   - Role
-
-2. Departments:
-   - Name
-   - Code
-   - Connected to courses through "Has Courses" relationship
-
-3. Courses:
-   - Course_Code
-   - Course_Name
-   - Syllabus
-   - Materials Link
-   - Average Grade
-   - Final
-   - MD
-   - Quizzes
-
-4. Teachers' Information:
-   - Full Name
-   - Phone Number
-   - Email
-   - Degree
 
 ## ERD
 
