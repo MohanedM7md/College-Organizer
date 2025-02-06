@@ -59,7 +59,7 @@ Key entities in the system:
 
 ## ERD
 
-![9d40d7b2-1be3-48b8-bb58-b4ecea5d2f71](https://github.com/user-attachments/assets/e046e2a6-7473-431f-bd8b-19d2a9d0b7e0)
+![Image Alt](https://github.com/MohanedM7md/College-Organizer/blob/main/ERD.png?raw=true)
 ### Database Design Process
 1. **Requirements Analysis**
    - Identified user roles
