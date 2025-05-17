@@ -88,3 +88,4 @@ git clone https://github.com/MohanedM7md/College-Organizer.git
 
 # Configure web server
 # Set up PHP environment
+
