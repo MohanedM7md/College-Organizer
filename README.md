@@ -7,13 +7,6 @@ https://github.com/user-attachments/assets/c9809a30-eed0-4266-893d-4fbf2bb0b65c
 ## Overview
 A free, online platform providing course materials (videos, tutorials, textbooks, question banks) to engineering students. The platform currently focuses on Cairo engineering with plans to expand to other majors. It features a robust database system that manages educational resources while enabling volunteer contributions and quality control.
 
-## Features
-- **Free Access**: Students can access curated materials through email registration
-- **Course Materials Management**: Centralized storage for various educational resources
-- **Quality Control**: Moderated content ensuring accuracy and relevance
-- **Scalable Architecture**: Designed to accommodate multiple universities and majors
-- **User Role System**: Support for students, volunteers, and moderators
-
 ## Database Structure
 The system implements a normalized (3NF) database with the following main entities:
 - Users (Students/Volunteers/Moderators)
@@ -36,23 +29,6 @@ The database design includes relationships for:
    - Gathered requirements for course data
    - Established department details
    - Implemented user authentication
-
-2. **Conceptual Design**
-   - Developed comprehensive ERD
-   - Created scalable structure
-   - Planned for future expansion
-
-3. **Logical Design**
-   - Implemented relational database schema
-   - Applied normalization (3NF)
-   - Eliminated multi-valued attributes
-   - Removed partial dependencies
-
-4. **Implementation**
-   - Utilized PHP with built-in SQL
-   - Established web interface connections
-   - Created data interaction systems
-
 ## System Architecture
 
 ### Key Components
