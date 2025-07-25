@@ -1,12 +1,7 @@
-# Engineering Educational Resources Platform
-
-
-https://github.com/user-attachments/assets/c9809a30-eed0-4266-893d-4fbf2bb0b65c
-
-
+# Data Base Project in form of Educational Resources Platform
 ## Overview
 A free, online platform providing course materials (videos, tutorials, textbooks, question banks) to engineering students. The platform currently focuses on Cairo engineering with plans to expand to other majors. It features a robust database system that manages educational resources while enabling volunteer contributions and quality control.
-
+Link : [CollageOrganizer](www.collegeorganizer.infy.uk)
 ## Database Structure
 The system implements a normalized (3NF) database with the following main entities:
 - Users (Students/Volunteers/Moderators)
