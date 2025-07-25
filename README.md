@@ -1,7 +1,7 @@
 # Data Base Project in form of Educational Resources Platform
 ## Overview
 A free, online platform providing course materials (videos, tutorials, textbooks, question banks) to engineering students. The platform currently focuses on Cairo engineering with plans to expand to other majors. It features a robust database system that manages educational resources while enabling volunteer contributions and quality control.
-Link : [CollageOrganizer](www.collegeorganizer.infy.uk)
+<br/>**Link** : [CollageOrganizer](http://www.collegeorganizer.infy.uk/?i=1)
 ## Database Structure
 The system implements a normalized (3NF) database with the following main entities:
 - Users (Students/Volunteers/Moderators)
